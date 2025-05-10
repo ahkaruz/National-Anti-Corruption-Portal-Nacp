@@ -39,7 +39,7 @@
                                                    type="text"/>
                                         </div>
                                         <small id="mobileHelp" class="form-text text-muted">
-                                            Bangladesh format (e.g., 1712345678 or 01712345678)
+                                            Bangladesh format (e.g., +8801712345678 or 01712345678)
                                         </small>
                                     </div>
                                 </div>
@@ -80,7 +80,7 @@
                             <div class="col-md-6 p-2">
                                 <button onclick="submitSignup()"
                                         class="w-100 btn-primary text-white fw-bold rounded-pill shadow-sm">
-                                    <i class="fas fa-user-plus me-2"></i>Complete Registration
+                                    <i class="fas fa-user-plus me-2"></i>Complete Sign up
                                 </button>
                             </div>
                             <div class="col-md-6 p-2 d-flex justify-content-center align-items-center">
