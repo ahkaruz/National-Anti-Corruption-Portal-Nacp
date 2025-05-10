@@ -1,0 +1,10 @@
+@extends('app')
+@section('content')
+    @include('components.hero')
+    @include('components.corruption')
+    @include('components.reportDetails')
+    @include('components.space')
+    @include('components.faq')
+    @include('components.callToAction')
+    @include('components.space')
+@endsection
